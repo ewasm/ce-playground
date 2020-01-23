@@ -14,6 +14,12 @@ Finally build the EE via:
 lys main.lys
 ```
 
-Or simply run `make`.
+Or simply run `make build`.
+
+## Install
+
+In order to test it [Scout] is needed. Run `make test`.
 
 [Lys]: https://github.com/lys-lang/lys
+[Scout]: https://github.com/ewasm/scout
+
